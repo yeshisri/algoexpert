@@ -1,0 +1,9 @@
+Q1 : Creation of DoublyLinkedList Class which has folowing method
+setHead
+setTail
+insertBefore(1,3) (value , value)
+insertAfter(value , value)
+inserAtPosition(index , value)
+removeNodeswithvalue(value)
+remove(index)
+containsNodeWithValue(value)
